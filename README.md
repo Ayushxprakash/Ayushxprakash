@@ -26,7 +26,7 @@ I'm Aayu — a student exploring the intersection of
 
 ## 📫 Connect
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](1024225966907732018)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/1024225966907732018 )
 
 ---
 
